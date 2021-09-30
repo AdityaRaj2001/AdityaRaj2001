@@ -3,10 +3,10 @@ I'm a Front-end Developer , Software Developer, Enthusiast and an Open Source Co
 
 - 🔭 I’m currently working on Front-end Web apps
 - 🌱 I’m currently learning DSA & Back-end Languages
-- 🥅 2021 Goals: Contribute more to Open Source projects
-💬 Ask me about Web Development(MERN), Native and Technology in general.
-😄 Pronouns: He / Him / Bro / Dude.
-⚡ Fun fact: I ❤️ watching web series, Cubicles🎧 and like to try something new everyday.
+- 🥅 2021 Goals: Contribute more to Open Source projects<br>
+💬 Ask me about Web Development(MERN), Native and Technology in general.<br>
+😄 Pronouns: He / Him / Bro / Dude.<br>
+⚡ Fun fact: I ❤️ watching web series, Cubicles🎧 and like to try something new everyday.<br>
 
 <h2>Find me around the Web</h2>
 Sharing Updates on Linkedin <a href="https://www.linkedin.com/in/aditya-raj-9ab06a183/">@Linkedin </a> <br>
