@@ -1,9 +1,5 @@
 ### Hi👋, I'm Aditya
-
-<!--
-**AdityaRaj2001/AdityaRaj2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm a Front-end Developer , Software Developer, Enthusiast and an Open Source Contributor. Some technologies I enjoy working with include HTML5, CSS , JavaScript , SQL, Etc.. I recentlty Launched My Portfolio Website <a href="https://adityaraj2001.github.io/">Aditya Portfolio</a> as a Project
 
 - 🔭 I’m currently working on Front-end Web apps
 - 🌱 I’m currently learning DSA & Back-end Languages
@@ -11,3 +7,8 @@ Here are some ideas to get you started:
 💬 Ask me about Web Development(MERN), Native and Technology in general.
 😄 Pronouns: He / Him / Bro / Dude.
 ⚡ Fun fact: I ❤️ watching web series, Cubicles🎧 and like to try something new everyday.
+
+<h2>Find me around the Web</h2>
+Sharing Updates on Linkedin <a href="https://www.linkedin.com/in/aditya-raj-9ab06a183/">@Linkedin </a> <br>
+Follow me onb Instagram <a href="https://www.instagram.com/adityaranjan450/"> @Instagram </a>
+
